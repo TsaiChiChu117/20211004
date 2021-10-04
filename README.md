@@ -9,3 +9,4 @@
 ---
 ## Homework_2
 ### 甘特圖(Gantt chart)
+![甘特圖](https://docs.google.com/spreadsheets/d/e/2PACX-1vS18C2_Lg1L-TJmqjgRzO0ildOIBqlayuzBHnLji9QwJXifJYem66-zbLTJyt08vjRSsjsSzVJAA4uH/pubchart?oid=638862379&format=image)
